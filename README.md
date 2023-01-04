@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BigDeall
+- 👋 Hi, I’m Sterling
+
 - 👀 I’m interested in ... Earning experience through collboration
 - 🌱 I’m currently learning ... coding and security
 - 💞️ I’m looking to collaborate on ... Projects to gain knowledge
